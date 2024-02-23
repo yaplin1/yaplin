@@ -651,3 +651,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #333;
 }
+span.reducedfrom {
+	text-decoration: line-through;
+	margin-right: 8%;
+	color: #FFFFFF;
+}
